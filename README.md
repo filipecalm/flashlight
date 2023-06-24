@@ -40,4 +40,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com 💜 por [Seu Nome]!
+Feito com 💜 por Filipe Almeida!
